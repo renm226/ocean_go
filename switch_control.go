@@ -16,6 +16,6 @@ func switchControlDemo() {
 	}
 }
 
-func main() {
+func exec() {
 	switchControlDemo()
 }
