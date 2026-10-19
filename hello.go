@@ -3,6 +3,7 @@ import (
 	"fmt"
 
 )
-func main() {
+func hello() {
 	fmt.Println("Hello, black hat gophers!")
 }
+
